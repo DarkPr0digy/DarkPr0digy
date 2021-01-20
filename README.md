@@ -7,7 +7,7 @@ My name is Tumi Moeng
 - <img src=https://img.icons8.com/dusk/2x/python.png width="20" height="20"> Python
 - <img src=https://img.icons8.com/dusk/2x/java-coffee-cup-logo.png width="20" height="20"> Java
 - <img src=https://img.icons8.com/color/2x/c-sharp-logo.png width="20" height="20"> C#
-- <img src=https://img.icons8.com/dusk/2x/learn-more.png width="20" height="20"> And more but always willing and ecstatic to Learn...
+- <img src=https://img.icons8.com/dusk/2x/learn-more.png width="20" height="20"> And more - always willing and ecstatic to learn...
 
 ## 🔭 Currently Working On
 - Generalized Database system for the Medical Field using C#, ASP.NET and MVC
