@@ -9,11 +9,17 @@ My name is Tumi Moeng
 - <img src=https://img.icons8.com/color/2x/c-sharp-logo.png width="20" height="20"> C#
 - <img src=https://img.icons8.com/dusk/2x/learn-more.png width="20" height="20"> And more - always willing and ecstatic to learn...
 
+## ⚡ Additional Frameworks
+- <img src=https://img.icons8.com/ios-filled/2x/git.png width="20" height="20"> Git
+- <img src=https://img.icons8.com/plasticine/2x/add-database.png width="20" height="20"> SQL
+- <img src=https://img.icons8.com/plasticine/2x/add-database.png width="20" height="20"> Mongo DB
+- <img src=https://img.icons8.com/cotton/2x/torch.png width="20" height="20"> Pytorch
+
 ## 🔭 Currently Working On
 - Generalized Database system for the Medical Field using C#, ASP.NET and MVC
 
 ## 🌱 Currently Learning
-Anything I can
+Anything I can...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DarkPr0digy&count_private=true&show_icons=true&include_all_commits=true&hide=issues&theme=graywhite)
 <!--
