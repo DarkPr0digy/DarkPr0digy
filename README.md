@@ -14,6 +14,7 @@ My name is Tumi Moeng
 - <img src=https://img.icons8.com/plasticine/2x/add-database.png width="20" height="20"> SQL
 - <img src=https://img.icons8.com/plasticine/2x/add-database.png width="20" height="20"> Mongo DB
 - <img src=https://img.icons8.com/cotton/2x/torch.png width="20" height="20"> Pytorch
+- <img src=https://img.icons8.com/dotty/2x/asp.png width="20" height="20"> ASP.Net
 
 ## 🔭 Currently Working On
 - Generalized Database system for the Medical Field using C#, ASP.NET and MVC
