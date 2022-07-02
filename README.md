@@ -1,7 +1,9 @@
 ## 🔮 About Me
 My name is Tumi Moeng
-- 💻 I am a new Computer Science Honours Graduate from the University of Cape Town
-- 🔧 I am curently looking for internships / work
+- 💻 I graduated from the University of Cape Town with a BCom. degree in Computer Science and Information Systems
+- 💻 I graduated from the University of Cape Town with a BSc. Honours degree in Computer Science Honours
+- 💻 I am currently pursuing a Masters in Artificial Intelligence at the University of Groningen
+- 🔧 I am looking for internships / work for after my Masters
 
 ## 🌐 Coding Languages
 - <img src=https://img.icons8.com/dusk/2x/python.png width="20" height="20"> Python
